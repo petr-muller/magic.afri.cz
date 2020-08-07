@@ -80,6 +80,12 @@ disqusShortname = ""
     enable = true
 
     [[params.tiles.showcase]]
+      title = "CFB Pro Showdown #3"
+      subtitle = "2-1 with Bant Ramp in Standard, Single Elimination"
+      image = "tournaments/uro.jpg"
+      url = "tournaments/20200719-cfb-pro-showdown-3"
+
+    [[params.tiles.showcase]]
       title = "Red Bull Untapped International Qualifier III"
       subtitle = "3-5 with Bant Ramp in Standard, Swiss"
       image = "tournaments/growth-spiral.jpg"
