@@ -1,5 +1,5 @@
 ---
-title: "Channel Fireball Showdown (October)"
+title: "CFB Pro Showdown (October)"
 date: 2020-10-17T23:36:00+02:00
 draft: false
 description: |
