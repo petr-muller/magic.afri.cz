@@ -80,6 +80,12 @@ disqusShortname = ""
     enable = true
 
     [[params.tiles.showcase]]
+      title = "CFB Pro Showdown (October)"
+      subtitle = "1-1 with Rakdos Midrange in Standard, Single Elimination"
+      image = "tournaments/kroxa.jpg"
+      url = "tournaments/20201017-cfb-pro-showdown-october"
+
+    [[params.tiles.showcase]]
       title = "CFB Pro Showdown #3"
       subtitle = "2-1 with Bant Ramp in Standard, Single Elimination"
       image = "tournaments/uro.jpg"
@@ -108,7 +114,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Tournaments"
-    subtitle = """I really like competetive play, probably even more than casual! I like to take notes so that I can keep track of my plays and mistakes, and to learn from them."""
+    subtitle = """I really like competitive play, probably even more than casual! I like to take notes so that I can keep track of my plays and mistakes, and to learn from them."""
     buttonText = "Read tournament notes"
     url = "tournaments"
 
