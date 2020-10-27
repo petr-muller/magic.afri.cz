@@ -86,6 +86,12 @@ disqusShortname = ""
       url = "tournaments/20201017-cfb-pro-showdown-october"
 
     [[params.tiles.showcase]]
+      title = "CFB Clash Qualifier 1"
+      subtitle = "3-5 with Esper Doom in Standard, Swiss with win streaks "
+      image = "tournaments/doomforetold.jpg"
+      url = "tournaments/20201003-cfb-clash-q1"
+
+    [[params.tiles.showcase]]
       title = "CFB Pro Showdown #3"
       subtitle = "2-1 with Bant Ramp in Standard, Single Elimination"
       image = "tournaments/uro.jpg"
